@@ -11,7 +11,6 @@ public class HeapSort<T> {
             return inArr;
         }
 
-
         for (int i = (inArr.length / 2); i >= 0; i--) {
 
             heapify(inArr, i, inArr.length - 1, comparator);
@@ -23,7 +22,6 @@ public class HeapSort<T> {
 
             heapify(inArr, 0, length - 1, comparator);
         }
-
 
         return inArr;
     }
