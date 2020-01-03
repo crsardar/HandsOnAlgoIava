@@ -1,6 +1,6 @@
 .git/
 .idea/
-..gradle/
+.gradle/
 .idea/
 **/logs
 **/target
