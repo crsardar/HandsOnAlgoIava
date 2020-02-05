@@ -1,5 +1,7 @@
 package com.crsardar.handson.algos.strings;
-
+/**
+ * @author Chittaranjan Sardar
+ */
 public class BreakingMessage {
 
     public int breakingMessage(final String msgString, final int msgLength) {

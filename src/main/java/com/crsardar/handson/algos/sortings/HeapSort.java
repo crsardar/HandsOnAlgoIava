@@ -1,7 +1,9 @@
 package com.crsardar.handson.algos.sortings;
 
 import java.util.Comparator;
-
+/**
+ * @author Chittaranjan Sardar
+ */
 public class HeapSort<T> {
 
     public T[] sort(final T inArr[], final Comparator<T> comparator) {
