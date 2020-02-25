@@ -1,4 +1,4 @@
-package com.crsardar.handson.algos.sortings;
+package com.crsardar.handson.algos.strings;
 
 import java.util.Scanner;
 
