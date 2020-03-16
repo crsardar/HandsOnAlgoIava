@@ -56,8 +56,9 @@ public class RatInAMaze {
     private static void printSol(final int[][] sol) {
         for (int i = 0; i < N; i++) {
             System.out.println();
-            for (int j = 0; j < N; j++)
+            for (int j = 0; j < N; j++) {
                 System.out.print(sol[i][j] + " ");
+            }
         }
     }
 }
