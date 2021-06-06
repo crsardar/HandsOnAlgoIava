@@ -1,4 +1,4 @@
-package com.crsardar.handson.algos.treeandgraph;
+package com.crsardar.handson.algos.graph;
 
 import java.util.ArrayList;
 import java.util.Scanner;
