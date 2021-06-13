@@ -1,4 +1,4 @@
-package com.crsardar.handson.algos.graph;
+package com.crsardar.handson.algos.trees;
 
 /**
  * @author Chittaranjan Sardar
